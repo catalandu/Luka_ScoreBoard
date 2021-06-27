@@ -1,0 +1,71 @@
+html {
+	color: #34495e;
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+}
+
+#wrap {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	width: 58vw;
+	min-height: 185px;
+	margin-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	background: linear-gradient(90deg, #0099ff 20%, #00fbf3 80%);
+	box-shadow: 12px 5px 12px 5px rgba(0, 0, 0, 0.5), 12px 5px 12px 12px rgba(0, 0, 0, 0.5);
+	color: rgba(255, 255, 255, 0.9);
+	border-radius: 15px;
+}
+
+p {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	float: left;
+	margin-left: 14px;
+	padding-left: 14px;
+	font-size: 0.75vw;
+}
+
+
+table {
+	text-align: left;
+	color: white;
+	overflow:scroll;
+	/* height:80em; */
+	margin-top:20px;
+}
+
+th, td {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	padding-left: 30px;
+}
+
+th {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	padding-top: 10px;
+	height: 40px;
+}
+
+tr {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	font-size: 0.5vw;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+tr.heading {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	font-size: 0.5vw;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.serverinfo {
+	font-family:Microsoft JhengHei;
+	font-weight:bold;
+	font-size: 0.6vw;
+	text-align: center;
+}
